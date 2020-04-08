@@ -8,7 +8,7 @@ Project Motivation: I want to contribute my UX design to publically funded websi
 
 1st Website: National Weather Service 
 
-<img src="./eather- screenshot.png">
+![National Weather Service Homepage](./weather-screenshot.png)
 
 https://www.weather.gov
 
