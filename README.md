@@ -10,7 +10,7 @@ Project Motivation: I want to contribute my UX design to publically funded websi
 
 ![National Weather Service Homepage](./weather-screenshot.png)
 
-[goto Weather] (https://www.weather.gov)
+https://www.weather.gov
 
 Information: This website's function is to provide weather conditions and quality around the USA. 
 
@@ -50,7 +50,7 @@ The help section is mainly about Flash Player and Adobe Reader which are more te
 
 ![Kids in the House Homepage](./politics-screenshot.png)
 
-<a href>https://kids-clerk.house.gov/high-school/lesson.html?intID=35
+https://kids-clerk.house.gov/high-school/lesson.html?intID=35
 
 Information: This website is meant for students that want to learn more about Congress, the House, and the Senate. It is meant for educational and informational purposes. 
 
