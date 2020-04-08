@@ -48,7 +48,7 @@ The help section is mainly about Flash Player and Adobe Reader which are more te
 
 2nd Website: Kids in the House 
 
-**screenshot
+![Kids in the House Homepage](./politics-screenshot.png)
 
 https://kids-clerk.house.gov/high-school/lesson.html?intID=35
 
