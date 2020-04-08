@@ -10,7 +10,7 @@ Project Motivation: I want to contribute my UX design to publically funded websi
 
 ![National Weather Service Homepage](./weather-screenshot.png)
 
-<a href>https://www.weather.gov
+<a href>"https://www.weather.gov" target="_blank"> Weather </a>
 
 Information: This website's function is to provide weather conditions and quality around the USA. 
 
