@@ -50,7 +50,7 @@ The help section is mainly about Flash Player and Adobe Reader which are more te
 
 ![Kids in the House Homepage](./politics-screenshot.png)
 
-https://kids-clerk.house.gov/high-school/lesson.html?intID=35
+<a href>https://kids-clerk.house.gov/high-school/lesson.html?intID=35
 
 Information: This website is meant for students that want to learn more about Congress, the House, and the Senate. It is meant for educational and informational purposes. 
 
